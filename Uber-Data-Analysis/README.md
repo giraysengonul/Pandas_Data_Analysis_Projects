@@ -25,6 +25,10 @@ Here are some snapshots from the notebook and visualizations:
 **Which `Base_number` has the most active vehicles? Fleet-wise distribution uncovered.**  
 <img src="assets/uber4.png" width="600"/>
 
+### 5. NYC HeatMap – High-Rush Locations
+**Where in NYC do Uber pickups cluster the most?**
+**Interactive heatmap created with Folium shows pickup hotspots across New York City.**
+<img src="assets/uber5.png" width="600"/>
 ---
 
 ## 📁 Dataset
