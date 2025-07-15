@@ -9,17 +9,21 @@ We explore temporal and spatial patterns in ride demand and visualize them with 
 
 Here are some snapshots from the notebook and visualizations:
 
-### 1. Monthly Pickup Trends  
-<img src="assets/monthly_trend.png" width="600"/>
+### 1. Monthly Pickup Volume  
+**Which month had the maximum Uber pickups in NYC?**   
+<img src="assets/uber1.png" width="600"/>
 
-### 2. Hourly Pickup Analysis by Weekday  
-<img src="assets/hourly_weekday.png" width="600"/>
+### 2. Weekday Patterns – Fun Days in NYC  
+**Friday and Saturday show the highest activity — possibly due to shopping, nightlife, and weekend plans.**   
+<img src="assets/uber2.png" width="600"/>
 
-### 3. Folium HeatMap of Pickup Density  
-<img src="assets/heatmap_nyc.png" width="600"/>
+### 3. Hourly Rush Trends  
+**Hourly rush analysis reveals consistent late-night demand on weekends and interesting early weekend trends on Thursdays.**  
+<img src="assets/uber3.png" width="600"/>
 
-### 4. Top Busiest Days and Hours  
-<img src="assets/busiest_times.png" width="600"/>
+### 4. Fleet Distribution – Base Numbers  
+**Which `Base_number` has the most active vehicles? Fleet-wise distribution uncovered.**  
+<img src="assets/uber4.png" width="600"/>
 
 ---
 
