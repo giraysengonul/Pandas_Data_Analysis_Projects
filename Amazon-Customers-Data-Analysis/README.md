@@ -76,5 +76,4 @@ Using a sentiment analysis model (TextBlob or VADER), we evaluated the emotional
 
 ---
 
-## 📂 Project Structure
 
